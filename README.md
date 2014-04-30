@@ -1,18 +1,4 @@
-# Sexy simple PHP Login #
-
-**THIS IS A GITHUB PREVIEW ! WHAT YOU SEE IS NOT READY TO RELEASE ! IT'S A PREVIEW!**
-
-TODO: Clear legal rights for demo avatar pictures, full docs, no inline css, alternative theme, prepared statements
-
-Always find the latest version, a documentation and other stuff on the project website:
-http://www.php-login.net
-
-*A sexy, clean, stylish, non-nerdy, well documented, object-oriented, totally free and reduced to the max PHP login script*
-
-![Screenshot 1](https://raw.github.com/Panique/PHP-Login/master/_screenshots/php_login_script_01.png)
-
-![Screenshot 2](https://raw.github.com/Panique/PHP-Login/master/_screenshots/php_login_script_02.png)
-
+# Inventory Management System #
 
 ## HOW TO INSTALL ##
 
